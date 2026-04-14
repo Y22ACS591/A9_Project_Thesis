@@ -1,4 +1,3 @@
-# A9_Project_Thesis
 
 #  A Web-Based Leave Management System
 
