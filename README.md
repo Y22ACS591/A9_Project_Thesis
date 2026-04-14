@@ -1,8 +1,8 @@
 # A9_Project_Thesis
 
-# 🎓 A Web-Based Leave Management System
+#  A Web-Based Leave Management System
 
-## 📖 About
+##  Overview 
 
 **LMS** is a full-stack web application built with the **MERN stack** that automates the entire leave application and approval process in educational institutions. It replaces traditional paper-based leave management with a secure, role-based, and workflow-driven digital solution.
 
@@ -12,7 +12,7 @@ The platform serves **five distinct user roles** — Student, Faculty, HOD, Prin
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -36,8 +36,11 @@ The platform serves **five distinct user roles** — Student, Faculty, HOD, Prin
 ```
 
 ---
+## Implementation
 
-## 👥 User Roles & Modules
+🔗 **https://github.com/Y22ACS591/A-Web-Based-Leave-Management-System**
+
+##  User Roles & Modules
 
 | Role | Level | Responsibilities |
 |------|-------|-----------------|
@@ -49,7 +52,7 @@ The platform serves **five distinct user roles** — Student, Faculty, HOD, Prin
 
 ---
 
-## 🔄 Multi-Level Approval Workflow
+##  Multi-Level Approval Workflow
 
 ```
 Student  →  Faculty  →  HOD  →  Principal
@@ -61,7 +64,7 @@ Automated email notifications via **Nodemailer + Gmail SMTP** are sent at every 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React.js 18** — Component-based UI library
@@ -82,7 +85,7 @@ Automated email notifications via **Nodemailer + Gmail SMTP** are sent at every 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -151,7 +154,7 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
-## 🔑 Demo Accounts
+##  Demo Accounts
 
 | Role | Email | Password |
 |------|-------|----------|
@@ -163,52 +166,8 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
-## 📡 API Reference
 
-### Authentication
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `POST` | `/api/auth/login` | User login |
-| `GET` | `/api/auth/me` | Get current user |
-| `PUT` | `/api/auth/profile` | Update profile |
-| `PUT` | `/api/auth/change-password` | Change password |
-
-### Leaves
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `POST` | `/api/leaves` | Apply for leave (with document) |
-| `GET` | `/api/leaves/my` | Get my applications |
-| `GET` | `/api/leaves/pending` | Get pending approvals |
-| `GET` | `/api/leaves` | Get all leaves (Admin/HOD/Principal) |
-| `PUT` | `/api/leaves/:id/status` | Approve or reject leave |
-| `PUT` | `/api/leaves/:id/cancel` | Cancel pending leave |
-
-### Users & Departments
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `GET` | `/api/users` | Get all users |
-| `POST` | `/api/users` | Create new user (Admin) |
-| `PUT` | `/api/users/:id` | Update user |
-| `PATCH` | `/api/users/:id/toggle` | Activate / Deactivate user |
-| `GET` | `/api/departments` | Get all departments |
-| `POST` | `/api/departments` | Create department |
-
-### Attendance & Notifications
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `POST` | `/api/attendance/mark` | Mark attendance |
-| `GET` | `/api/attendance/my` | Get my attendance |
-| `GET` | `/api/notifications` | Get notifications |
-| `PUT` | `/api/notifications/read-all` | Mark all as read |
-| `GET` | `/api/reports/dashboard` | Get dashboard stats |
-
----
-
-## 🔮 Roadmap
+##  Future Enhancements
 
 - [ ] 📱 Mobile App — React Native for iOS & Android
 - [ ] ☁️ Cloud Storage — AWS S3 / Cloudinary for documents
@@ -223,22 +182,12 @@ Open **http://localhost:3000** in your browser.
 
 ## GitHub Repositories
 
-### Frontend Application
-React-based responsive web application for all user roles.
-
-🔗 **https://github.com/ACS558/CareerLink-Frontend**
-
-### Backend Server
-Node.js backend with Express.js, AI integration, and real-time features.
-
-🔗 **https://github.com/ACS558/CareerLink-Backend**
+🔗 **https://github.com/Y22ACS591/A-Web-Based-Leave-Management-System.git**
 
 ---
 
 ## 👨‍💻 Contributors
 
-| Name | Roll Number |
-|------|-------------|
 | V. Monika | Y22ACS591 |
 | V. Hema Minakshi | Y22ACS583 |
 | T. Manroosh | Y22ACS575 |
