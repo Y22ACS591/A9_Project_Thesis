@@ -38,7 +38,12 @@ The platform serves **five distinct user roles** — Student, Faculty, HOD, Prin
 ---
 ## Implementation
 
+Source Code
 🔗 **https://github.com/Y22ACS591/A-Web-Based-Leave-Management-System**
+
+Description
+
+The implementation of the Leave Management System is available in the above GitHub repository, which includes frontend, backend, and database integration. The system supports role-based access, leave application workflows, and approval mechanisms.
 
 ##  User Roles & Modules
 
