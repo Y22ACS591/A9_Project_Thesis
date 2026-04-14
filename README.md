@@ -199,10 +199,6 @@ Open **http://localhost:3000** in your browser.
 
 🔗 **https://github.com/Y22ACS591/A-Web-Based-Leave-Management-System.git**
 
----
-
-
----
 
 ##  Acknowledgements
 
