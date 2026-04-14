@@ -2,6 +2,15 @@
 
 #  A Web-Based Leave Management System
 
+## 👨‍💻 Contributors
+
+| Name | Roll Number |
+|------|-------------|
+| Sk. Mohammad Ali | Y22ACS558 |
+| M. Hema Bhuvaneswari | Y22ACS501 |
+| V. Sravani | Y22ACS587 |
+| S. Naga Goutham | Y22ACS564 |
+
 ##  Overview 
 
 **LMS** is a full-stack web application built with the **MERN stack** that automates the entire leave application and approval process in educational institutions. It replaces traditional paper-based leave management with a secure, role-based, and workflow-driven digital solution.
@@ -191,12 +200,7 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
-## 👨‍💻 Contributors
 
-| V. Monika | Y22ACS591 |
-| V. Hema Minakshi | Y22ACS583 |
-| T. Manroosh | Y22ACS575 |
-| H. Karthik Sonia | Y22ACS462 |
 
 **Project Guide:** Mr. A. Gopinath, Assistant Professor, Dept. of CSE  
 **Institution:** Bapatla Engineering College (Autonomous), Bapatla, Andhra Pradesh, India
