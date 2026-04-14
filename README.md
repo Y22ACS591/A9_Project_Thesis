@@ -1,25 +1,10 @@
-<div align="center">
+# A9_Project_Thesis
 
-# 🎓 CareerLink
-### AI-Powered Campus Placement Management System
-
-![MongoDB](https://img.shields.io/badge/MongoDB-8.0-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-4.x-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-Gmail_SMTP-EA4335?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Version](https://img.shields.io/badge/Version-1.0.0-green?style=flat-square)
-
-</div>
-
----
+# 🎓 A Web-Based Leave Management System
 
 ## 📖 About
 
-**CareerLink** is a full-stack web application built with the **MERN stack** that automates the entire leave application and approval process in educational institutions. It replaces traditional paper-based leave management with a secure, role-based, and workflow-driven digital solution.
+**LMS** is a full-stack web application built with the **MERN stack** that automates the entire leave application and approval process in educational institutions. It replaces traditional paper-based leave management with a secure, role-based, and workflow-driven digital solution.
 
 The platform serves **five distinct user roles** — Student, Faculty, HOD, Principal, and Admin — each with specialized dashboards and tools.
 
@@ -240,18 +225,19 @@ Open **http://localhost:3000** in your browser.
 
 | Name | Roll Number |
 |------|-------------|
-| Sk. Mohammad Ali | Y22ACS558 |
-| M. Hema Bhuvaneswari | Y22ACS501 |
-| V. Sravani | Y22ACS587 |
-| S. Naga Goutham | Y22ACS564 |
+| V. Monika | Y22ACS591 |
+| V. Hema Minakshi | Y22ACS583 |
+| T. Manroosh | Y22ACS575 |
+| H. Karthik Sonia | Y22ACS462 |
 
 **Project Guide:** Mr. A. Gopinath, Assistant Professor, Dept. of CSE  
 **Institution:** Bapatla Engineering College (Autonomous), Bapatla, Andhra Pradesh, India
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
+- **Mr. A. Gopinath** — Project Guide
 - **Dr. M. Rajesh Babu** — Head of Department, CSE
 - **Bapatla Engineering College** — For infrastructure and support
 - **MongoDB Atlas** — For database hosting
