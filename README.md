@@ -221,6 +221,20 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
+## GitHub Repositories
+
+### Frontend Application
+React-based responsive web application for all user roles.
+
+🔗 **https://github.com/ACS558/CareerLink-Frontend**
+
+### Backend Server
+Node.js backend with Express.js, AI integration, and real-time features.
+
+🔗 **https://github.com/ACS558/CareerLink-Backend**
+
+---
+
 ## 👨‍💻 Contributors
 
 | Name | Roll Number |
