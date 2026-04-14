@@ -2,13 +2,14 @@
 
 #  A Web-Based Leave Management System
 
-## 👨‍💻 Contributors
+## Authors
+* **V. Monika** (Y22ACS591)
+* **V. Hema Minakshi** (Y22ACS583)
+* **T. Manroosh** (Y22ACS575)
+* **H. Karthik Sonia** (Y22ACS462)
 
-|------|-------------|
-| V. Monika | Y22ACS591 |
-| V. Hema Minakshi | Y22ACS583 |
-| T. Manroosh | Y22ACS575 |
-| H. Karthik sonia | Y22ACS462 |
+---
+
 
 ##  Overview 
 
@@ -19,6 +20,14 @@ The platform serves **five distinct user roles** — Student, Faculty, HOD, Prin
 **Key features:** Multi-level approval workflow · Automated email & in-app notifications · Document upload support · Automatic attendance tracking
 
 ---
+## Implementation
+
+Source Code
+🔗 **https://github.com/Y22ACS591/A-Web-Based-Leave-Management-System**
+
+Description
+
+The implementation of the Leave Management System is available in the above GitHub repository, which includes frontend, backend, and database integration. The system supports role-based access, leave application workflows, and approval mechanisms.
 
 ##  System Architecture
 
@@ -44,14 +53,7 @@ The platform serves **five distinct user roles** — Student, Faculty, HOD, Prin
 ```
 
 ---
-## Implementation
 
-Source Code
-🔗 **https://github.com/Y22ACS591/A-Web-Based-Leave-Management-System**
-
-Description
-
-The implementation of the Leave Management System is available in the above GitHub repository, which includes frontend, backend, and database integration. The system supports role-based access, leave application workflows, and approval mechanisms.
 
 ##  User Roles & Modules
 
