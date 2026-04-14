@@ -102,7 +102,7 @@ Automated email notifications via **Nodemailer + Gmail SMTP** are sent at every 
 ### Backend Setup
 
 ```bash
-cd college-leave-management/backend
+cd A-Web-Based-Leave-Management-System/backend
 npm install
 cp .env.example .env
 ```
@@ -125,7 +125,7 @@ NODE_ENV=development
 ### Frontend Setup
 
 ```bash
-cd college-leave-management/frontend
+cd A-Web-Based-Leave-Management-System/frontend
 npm install
 cp .env.example .env
 ```
@@ -139,7 +139,7 @@ REACT_APP_API_URL=http://localhost:5000/api
 ### Seed Database (first time only)
 
 ```bash
-cd college-leave-management/backend
+cd A-Web-Based-Leave-Management-System/backend
 npm run seed
 ```
 
@@ -147,11 +147,11 @@ npm run seed
 
 ```bash
 # Terminal 1 — Backend (Port 5000)
-cd college-leave-management/backend
+cd A-Web-Based-Leave-Management-System/backend
 npm run dev
 
 # Terminal 2 — Frontend (Port 3000)
-cd college-leave-management/frontend
+cd A-Web-Based-Leave-Management-System/frontend
 npm start
 ```
 
