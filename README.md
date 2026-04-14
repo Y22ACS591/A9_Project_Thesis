@@ -181,6 +181,9 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
+## GitHub Repositories
+
+🔗 **https://github.com/Y22ACS591/A-Web-Based-Leave-Management-System.git**
 
 ##  Future Enhancements
 
@@ -195,23 +198,3 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
-## GitHub Repositories
-
-🔗 **https://github.com/Y22ACS591/A-Web-Based-Leave-Management-System.git**
-
-
-##  Acknowledgements
-
-- **Mr. A. Gopinath** — Project Guide
-- **Dr. M. Rajesh Babu** — Head of Department, CSE
-- **Bapatla Engineering College** — For infrastructure and support
-- **MongoDB Atlas** — For database hosting
-- **React.js Community** — For the open-source library
-
----
-
-<div align="center">
-
-Built with ❤️ by the CLMS Team &nbsp;·&nbsp; Bapatla Engineering College &nbsp;·&nbsp; 2025–2026
-
-</div>
