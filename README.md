@@ -202,10 +202,6 @@ Open **http://localhost:3000** in your browser.
 ---
 
 
-
-**Project Guide:** Mr. A. Gopinath, Assistant Professor, Dept. of CSE  
-**Institution:** Bapatla Engineering College (Autonomous), Bapatla, Andhra Pradesh, India
-
 ---
 
 ##  Acknowledgements
